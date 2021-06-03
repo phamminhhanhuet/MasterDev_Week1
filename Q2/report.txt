@@ -1,0 +1,47 @@
+==================Solution1 =================
+Mean = 0.0899
+Variance = 1.4122
+Std = 1.1884
+ModeResult(mode=array([0.]), count=array([946]))
+Median = 0.0000
+Min = 0.0000
+Max = 36.9780
+Q1 = 0.0000
+Q2 = 0.0000
+Q3 = 0.0000
+
+==================Solution2 =================
+Mean = 0.0740
+Variance = 0.8236
+Std = 0.9075
+ModeResult(mode=array([0.]), count=array([953]))
+Median = 0.0000
+Min = 0.0000
+Max = 27.9837
+Q1 = 0.0000
+Q2 = 0.0000
+Q3 = 0.0000
+
+==================Solution3 =================
+Mean = 0.0789
+Variance = 0.6260
+Std = 0.7912
+ModeResult(mode=array([0.]), count=array([945]))
+Median = 0.0000
+Min = 0.0000
+Max = 23.9849
+Q1 = 0.0000
+Q2 = 0.0000
+Q3 = 0.0000
+
+==================Solution4 =================
+Mean = 0.0670
+Variance = 0.6617
+Std = 0.8135
+ModeResult(mode=array([0.]), count=array([957]))
+Median = 0.0000
+Min = 0.0000
+Max = 24.9848
+Q1 = 0.0000
+Q2 = 0.0000
+Q3 = 0.0000
